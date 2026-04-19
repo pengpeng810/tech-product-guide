@@ -1,0 +1,39 @@
+# Tech Product Guide
+
+Independent public-source technology product guide for AI hardware, productivity tools, smart devices, software, and practical product comparisons.
+
+## Core Pages
+
+- Home: https://example.com/
+- AI voice recorder guides: https://example.com/ai-recorders/
+- Future comparison roadmap: https://example.com/future-comparisons/
+- What is TicNote: https://example.com/ticnote/
+- TicNote specs and features: https://example.com/ticnote/specs/
+- TicNote vs PLAUD Note: https://example.com/ticnote-vs-plaud-note/
+- Best AI voice recorder for meetings and phone calls: https://example.com/best-ai-voice-recorder-meetings-calls/
+- TicNote FAQ: https://example.com/ticnote-faq/
+
+## Source Standard
+
+The site is based on public product materials unless a page explicitly says it includes hands-on testing. It avoids unsupported claims about measured accuracy, product performance, durability, real-world battery life, or product superiority.
+
+## Current Vertical
+
+The first vertical is AI voice recorders. TicNote and PLAUD Note are the first product comparison cluster.
+
+## Future Verticals
+
+- AI hardware and wearable AI devices
+- Productivity tools and meeting software
+- Smart office and consumer tech devices
+- Creator gear and compact travel tech
+- Software products with comparison-heavy buying intent
+
+## Main Public Sources
+
+- TicNote official product page: https://ticnote.ai/products/ticnote-ai-voice-recorder
+- Mobvoi TicNote page: https://www.mobvoi.com/pages/mobvoiticnote
+- TicNote user guide: https://ticnote.com/en/userguide
+- TicNote privacy policy: https://www.ticnote.com/en/privacy
+- TicNote App Store page: https://apps.apple.com/us/app/ticnote-ai-recorder-agent/id6739864932
+- PLAUD Note official product page: https://www.plaud.ai/products/plaud-note-ai-voice-recorder
