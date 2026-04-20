@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://tech-product-guide.vercel.app/sitemap.xml
 
 # Tech Product Guide

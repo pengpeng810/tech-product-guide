@@ -118,7 +118,7 @@ The site also needs an editorial methodology page in the main navigation. This h
 
 ### First 7 Days
 
-- Confirm the live Vercel URL and replace every `https://example.com` canonical, sitemap, robots, and llms entry.
+- Confirm the live Vercel URL and replace every `https://tech-product-guide.vercel.app` canonical, sitemap, robots, and llms entry.
 - Submit the sitemap in Google Search Console.
 - Add the site to Bing Webmaster Tools because Bing data can feed Microsoft answer surfaces.
 - Publish three more AI recorder pages before expanding into another category.

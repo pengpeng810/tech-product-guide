@@ -26,7 +26,7 @@ Before any public publish, the final deploy button should be confirmed by the ow
 
 ## Replace Before Public Launch
 
-Replace `https://example.com` in:
+Replace `https://tech-product-guide.vercel.app` in:
 
 - `site/index.html`
 - `site/ticnote/index.html`

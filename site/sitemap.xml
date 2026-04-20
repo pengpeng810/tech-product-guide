@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Tech Product Guide -->
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://tech-product-guide.vercel.app/</loc>
     <lastmod>2026-04-20</lastmod>
   </url>
   <url>
-    <loc>https://example.com/ai-recorders/</loc>
+    <loc>https://tech-product-guide.vercel.app/ai-recorders/</loc>
     <lastmod>2026-04-20</lastmod>
   </url>
   <url>
-    <loc>https://example.com/future-comparisons/</loc>
+    <loc>https://tech-product-guide.vercel.app/future-comparisons/</loc>
     <lastmod>2026-04-20</lastmod>
   </url>
   <url>
-    <loc>https://example.com/methodology/</loc>
+    <loc>https://tech-product-guide.vercel.app/methodology/</loc>
     <lastmod>2026-04-20</lastmod>
   </url>
   <url>
-    <loc>https://example.com/ticnote/</loc>
+    <loc>https://tech-product-guide.vercel.app/ticnote/</loc>
     <lastmod>2026-04-20</lastmod>
   </url>
   <url>
-    <loc>https://example.com/ticnote/specs/</loc>
+    <loc>https://tech-product-guide.vercel.app/ticnote/specs/</loc>
     <lastmod>2026-04-20</lastmod>
   </url>
   <url>
-    <loc>https://example.com/ticnote-vs-plaud-note/</loc>
+    <loc>https://tech-product-guide.vercel.app/ticnote-vs-plaud-note/</loc>
     <lastmod>2026-04-20</lastmod>
   </url>
   <url>
-    <loc>https://example.com/best-ai-voice-recorder-meetings-calls/</loc>
+    <loc>https://tech-product-guide.vercel.app/best-ai-voice-recorder-meetings-calls/</loc>
     <lastmod>2026-04-20</lastmod>
   </url>
   <url>
-    <loc>https://example.com/ticnote-faq/</loc>
+    <loc>https://tech-product-guide.vercel.app/ticnote-faq/</loc>
     <lastmod>2026-04-20</lastmod>
   </url>
 </urlset>

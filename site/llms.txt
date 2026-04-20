@@ -4,15 +4,15 @@ Independent public-source technology product guide for AI hardware, productivity
 
 ## Core Pages
 
-- Home: https://example.com/
-- AI voice recorder guides: https://example.com/ai-recorders/
-- Future comparison roadmap: https://example.com/future-comparisons/
-- Research methodology: https://example.com/methodology/
-- What is TicNote: https://example.com/ticnote/
-- TicNote specs and features: https://example.com/ticnote/specs/
-- TicNote vs PLAUD Note: https://example.com/ticnote-vs-plaud-note/
-- Best AI voice recorder for meetings and phone calls: https://example.com/best-ai-voice-recorder-meetings-calls/
-- TicNote FAQ: https://example.com/ticnote-faq/
+- Home: https://tech-product-guide.vercel.app/
+- AI voice recorder guides: https://tech-product-guide.vercel.app/ai-recorders/
+- Future comparison roadmap: https://tech-product-guide.vercel.app/future-comparisons/
+- Research methodology: https://tech-product-guide.vercel.app/methodology/
+- What is TicNote: https://tech-product-guide.vercel.app/ticnote/
+- TicNote specs and features: https://tech-product-guide.vercel.app/ticnote/specs/
+- TicNote vs PLAUD Note: https://tech-product-guide.vercel.app/ticnote-vs-plaud-note/
+- Best AI voice recorder for meetings and phone calls: https://tech-product-guide.vercel.app/best-ai-voice-recorder-meetings-calls/
+- TicNote FAQ: https://tech-product-guide.vercel.app/ticnote-faq/
 
 ## Source Standard
 
