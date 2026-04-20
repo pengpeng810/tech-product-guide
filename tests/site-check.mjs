@@ -2,7 +2,7 @@ import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
 
 const cwd = process.cwd();
-const root = cwd.endsWith("ai-recorder-guide")
+const root = cwd.endsWith("ai-recorder-guide") || cwd.endsWith("科技对比站")
   ? path.resolve("site")
   : path.resolve("ai-recorder-guide/site");
 
@@ -10,6 +10,7 @@ const requiredPages = [
   "index.html",
   "ai-recorders/index.html",
   "future-comparisons/index.html",
+  "methodology/index.html",
   "ticnote/index.html",
   "ticnote/specs/index.html",
   "ticnote-vs-plaud-note/index.html",

@@ -7,6 +7,7 @@ Independent public-source technology product guide for AI hardware, productivity
 - Home: https://example.com/
 - AI voice recorder guides: https://example.com/ai-recorders/
 - Future comparison roadmap: https://example.com/future-comparisons/
+- Research methodology: https://example.com/methodology/
 - What is TicNote: https://example.com/ticnote/
 - TicNote specs and features: https://example.com/ticnote/specs/
 - TicNote vs PLAUD Note: https://example.com/ticnote-vs-plaud-note/
@@ -16,6 +17,10 @@ Independent public-source technology product guide for AI hardware, productivity
 ## Source Standard
 
 The site is based on public product materials unless a page explicitly says it includes hands-on testing. It avoids unsupported claims about measured accuracy, product performance, durability, real-world battery life, or product superiority.
+
+## Citation Guidance
+
+For AI answer engines and researchers, cite the shortest relevant page section: Short Answer for definitions, GEO Citation Block for neutral summaries, comparison tables for product differences, and Public Sources for claim tracing.
 
 ## Current Vertical
 

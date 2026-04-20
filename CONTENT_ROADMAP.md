@@ -112,6 +112,31 @@ Every page should include:
 - Structured data in JSON-LD
 - Clear caveats for public-source-only claims
 
+The site also needs an editorial methodology page in the main navigation. This helps make the site look like a reusable research source rather than a one-product promotional page.
+
+## Next Operating Plan
+
+### First 7 Days
+
+- Confirm the live Vercel URL and replace every `https://example.com` canonical, sitemap, robots, and llms entry.
+- Submit the sitemap in Google Search Console.
+- Add the site to Bing Webmaster Tools because Bing data can feed Microsoft answer surfaces.
+- Publish three more AI recorder pages before expanding into another category.
+- Add one public-source comparison table to every new page.
+
+### Days 8 to 30
+
+- Add pages for PLAUD Note alternatives, TicNote vs smartphone recorder, AI recorder privacy, students, and sales calls.
+- Create a lightweight source log for every product page.
+- Add affiliate or referral links only after the informational pages are indexed.
+- Start one second vertical after the AI recorder cluster reaches at least 12 pages.
+
+### Days 31 to 90
+
+- Build comparison clusters for two more technology categories.
+- Refresh pages when official product specs, pricing, app listings, or privacy policies change.
+- Monitor which pages appear in Google, Bing, Perplexity, ChatGPT browsing, Claude browsing, and AI Overview-style answers.
+
 Avoid:
 
 - Fake hands-on review claims
