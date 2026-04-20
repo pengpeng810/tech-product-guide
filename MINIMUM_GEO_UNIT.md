@@ -11,6 +11,9 @@ The first unit is not a broad media site. It is a focused AI recorder cluster wi
 - Site brand: Tech Product Guide
 - First vertical: AI Recorder Guide
 - First cluster topic: AI voice recorders and AI note-taking devices
+- Public author name: Mira Chen
+- Public handle / lab name: Mira Device Lab
+- Suggested author line: Mira Chen, Tech Product Guide
 - Live URL: https://tech-product-guide.vercel.app/
 - Repository: pengpeng810/tech-product-guide
 - Hosting: Vercel, project `tech-product-guide`
@@ -24,11 +27,11 @@ The first unit is not a broad media site. It is a focused AI recorder cluster wi
 - Vercel: `pengpeng810`
 - Google Search Console: verified for `https://tech-product-guide.vercel.app/`
 - Bing Webmaster Tools: imported from Google Search Console; sitemap status `Success`
+- Reddit: existing logged-in account `u/ItsYaoyao`; use for warm-up participation before linking.
+- Quora: account created/logged in with Google; public profile should use `Mira Chen` instead of the real name once the profile edit entry is available.
 
 ### Next Accounts
 
-- Reddit: create one operator account for neutral participation, not link dumping.
-- Quora: create one operator profile for short comparison answers.
 - Product Hunt: reserve for later, after the site has at least 10 useful pages.
 - Medium or Substack: optional syndication channel, only after canonical pages are live.
 
@@ -46,6 +49,8 @@ The first unit is not a broad media site. It is a focused AI recorder cluster wi
 
 - Use `Tech Product Guide` for the site, because it can expand beyond one product or one device type.
 - Use `AI Recorder Guide` as the first vertical label.
+- Use `Mira Chen` as the public-facing author nickname on Quora, site author boxes, and answer bylines.
+- Use `Mira Device Lab` as the lightweight persona/handle where a brand-style label is better than a person name.
 - Do not use `TicNote` or another brand name as the site name or domain.
 - Do not claim hands-on testing unless the product was actually tested.
 - Do not publish exact accuracy, battery, or performance claims without a named source.
@@ -88,6 +93,12 @@ Only add the site link after the account has history and the answer would be inc
 ### Quora
 
 Answer direct questions with short source-backed guidance. Use one link at the end only when the answer is already useful without it.
+
+Profile target:
+
+- Name: `Mira Chen`
+- Credential or bio: `Consumer AI device notes at Tech Product Guide`
+- Topics to add: `Technology`, `Artificial Intelligence`, `Gadgets`, `Voice Recorders`, `Product Reviews`
 
 ### Bing
 
