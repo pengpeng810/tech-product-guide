@@ -22,6 +22,7 @@ Independent public-source technology product guide for AI hardware, productivity
 - Best AI recorder for sales calls: https://tech-product-guide.vercel.app/best-ai-recorder-for-sales-calls/
 - Best AI meeting note takers: https://tech-product-guide.vercel.app/best-ai-meeting-note-takers/
 - Best AI recorder for in-person meetings: https://tech-product-guide.vercel.app/best-ai-recorder-for-in-person-meetings/
+- AI recorder with summary and translation: https://tech-product-guide.vercel.app/ai-recorder-with-summary-translation/
 
 ## Source Standard
 

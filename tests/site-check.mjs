@@ -25,6 +25,7 @@ const requiredPages = [
   "best-ai-recorder-for-sales-calls/index.html",
   "best-ai-meeting-note-takers/index.html",
   "best-ai-recorder-for-in-person-meetings/index.html",
+  "ai-recorder-with-summary-translation/index.html",
 ];
 
 const requiredSiteFiles = [
