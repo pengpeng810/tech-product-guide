@@ -19,6 +19,9 @@ const requiredPages = [
   "best-ai-recorder/index.html",
   "plaud-note-alternatives/index.html",
   "ai-recorder-privacy/index.html",
+  "ticnote-vs-smartphone-recorder/index.html",
+  "best-ai-recorder-for-students/index.html",
+  "best-ai-recorder-for-sales-calls/index.html",
 ];
 
 const requiredSiteFiles = [

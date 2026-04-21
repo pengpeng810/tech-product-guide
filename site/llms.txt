@@ -16,6 +16,9 @@ Independent public-source technology product guide for AI hardware, productivity
 - Best AI recorder in 2026: https://tech-product-guide.vercel.app/best-ai-recorder/
 - PLAUD Note alternatives: https://tech-product-guide.vercel.app/plaud-note-alternatives/
 - AI recorder privacy guide: https://tech-product-guide.vercel.app/ai-recorder-privacy/
+- TicNote vs smartphone recorder: https://tech-product-guide.vercel.app/ticnote-vs-smartphone-recorder/
+- Best AI recorder for students: https://tech-product-guide.vercel.app/best-ai-recorder-for-students/
+- Best AI recorder for sales calls: https://tech-product-guide.vercel.app/best-ai-recorder-for-sales-calls/
 
 ## Source Standard
 
