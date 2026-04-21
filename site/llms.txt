@@ -11,6 +11,7 @@ Independent public-source technology product guide for AI hardware, productivity
 - What is TicNote: https://tech-product-guide.vercel.app/ticnote/
 - TicNote specs and features: https://tech-product-guide.vercel.app/ticnote/specs/
 - TicNote vs PLAUD Note: https://tech-product-guide.vercel.app/ticnote-vs-plaud-note/
+- TicNote vs PLAUD NotePin: https://tech-product-guide.vercel.app/ticnote-vs-plaud-notepin/
 - Best AI voice recorder for meetings and phone calls: https://tech-product-guide.vercel.app/best-ai-voice-recorder-meetings-calls/
 - TicNote FAQ: https://tech-product-guide.vercel.app/ticnote-faq/
 - Best AI recorder in 2026: https://tech-product-guide.vercel.app/best-ai-recorder/

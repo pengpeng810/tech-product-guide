@@ -14,6 +14,7 @@ const requiredPages = [
   "ticnote/index.html",
   "ticnote/specs/index.html",
   "ticnote-vs-plaud-note/index.html",
+  "ticnote-vs-plaud-notepin/index.html",
   "best-ai-voice-recorder-meetings-calls/index.html",
   "ticnote-faq/index.html",
   "best-ai-recorder/index.html",

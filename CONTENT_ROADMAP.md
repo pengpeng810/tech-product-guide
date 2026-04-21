@@ -149,7 +149,7 @@ Avoid:
 
 1. Best AI voice recorders in 2026 - published as `/best-ai-recorder/`
 2. Best PLAUD Note alternatives - published as `/plaud-note-alternatives/`
-3. TicNote vs PLAUD NotePin
+3. TicNote vs PLAUD NotePin - published as `/ticnote-vs-plaud-notepin/`
 4. TicNote vs smartphone recorder - published as `/ticnote-vs-smartphone-recorder/`
 5. AI recorder privacy guide - published as `/ai-recorder-privacy/`
 6. Best AI recorder for students - published as `/best-ai-recorder-for-students/`
