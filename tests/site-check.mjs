@@ -16,6 +16,9 @@ const requiredPages = [
   "ticnote-vs-plaud-note/index.html",
   "best-ai-voice-recorder-meetings-calls/index.html",
   "ticnote-faq/index.html",
+  "best-ai-recorder/index.html",
+  "plaud-note-alternatives/index.html",
+  "ai-recorder-privacy/index.html",
 ];
 
 const requiredSiteFiles = [

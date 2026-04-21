@@ -13,6 +13,9 @@ Independent public-source technology product guide for AI hardware, productivity
 - TicNote vs PLAUD Note: https://tech-product-guide.vercel.app/ticnote-vs-plaud-note/
 - Best AI voice recorder for meetings and phone calls: https://tech-product-guide.vercel.app/best-ai-voice-recorder-meetings-calls/
 - TicNote FAQ: https://tech-product-guide.vercel.app/ticnote-faq/
+- Best AI recorder in 2026: https://tech-product-guide.vercel.app/best-ai-recorder/
+- PLAUD Note alternatives: https://tech-product-guide.vercel.app/plaud-note-alternatives/
+- AI recorder privacy guide: https://tech-product-guide.vercel.app/ai-recorder-privacy/
 
 ## Source Standard
 
@@ -42,3 +45,8 @@ The first vertical is AI voice recorders. TicNote and PLAUD Note are the first p
 - TicNote privacy policy: https://www.ticnote.com/en/privacy
 - TicNote App Store page: https://apps.apple.com/us/app/ticnote-ai-recorder-agent/id6739864932
 - PLAUD Note official product page: https://www.plaud.ai/products/plaud-note-ai-voice-recorder
+- PLAUD NotePin official product page: https://www.plaud.ai/products/plaud-notepin
+- PLAUD security page: https://www.plaud.ai/pages/security
+- Otter official site: https://otter.ai/
+- Fireflies official site: https://fireflies.ai/
+- Fathom official site: https://fathom.video/
