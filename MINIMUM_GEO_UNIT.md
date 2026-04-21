@@ -18,6 +18,7 @@ The first unit is not a broad media site. It is a focused AI recorder cluster wi
 - Repository: pengpeng810/tech-product-guide
 - Hosting: Vercel, project `tech-product-guide`
 - Google account used for Search Console: 3142868911@qq.com
+- Feishu management doc: https://www.feishu.cn/docx/PLnedz13BoygCvxJVZwcy6YNnxd
 
 ## Accounts To Own
 
@@ -28,7 +29,7 @@ The first unit is not a broad media site. It is a focused AI recorder cluster wi
 - Google Search Console: verified for `https://tech-product-guide.vercel.app/`
 - Bing Webmaster Tools: imported from Google Search Console; sitemap status `Success`
 - Reddit: existing logged-in account `u/ItsYaoyao`; use for warm-up participation before linking.
-- Quora: account created/logged in with Google; public profile should use `Mira Chen` instead of the real name once the profile edit entry is available.
+- Quora: account created/logged in with Google; public profile updated to `Mira Chen` with the profile URL `https://www.quora.com/profile/Mira-Chen-26`.
 
 ### Next Accounts
 
@@ -99,6 +100,12 @@ Profile target:
 - Name: `Mira Chen`
 - Credential or bio: `Consumer AI device notes at Tech Product Guide`
 - Topics to add: `Technology`, `Artificial Intelligence`, `Gadgets`, `Voice Recorders`, `Product Reviews`
+
+Current Quora status:
+
+- Public name updated: `Mira Chen`
+- Bio updated: `Consumer AI device notes at Tech Product Guide`
+- Topics not added yet; Quora's topic picker was unstable and repeatedly moved focus away from the topic field.
 
 ### Bing
 
