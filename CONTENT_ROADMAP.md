@@ -155,5 +155,5 @@ Avoid:
 6. Best AI recorder for students - published as `/best-ai-recorder-for-students/`
 7. Best AI recorder for sales calls - published as `/best-ai-recorder-for-sales-calls/`
 8. Best AI meeting note takers - published as `/best-ai-meeting-note-takers/`
-9. AI glasses comparison hub
+9. Best AI recorder for in-person meetings - published as `/best-ai-recorder-for-in-person-meetings/`
 10. AI note-taking apps comparison hub

@@ -24,6 +24,7 @@ const requiredPages = [
   "best-ai-recorder-for-students/index.html",
   "best-ai-recorder-for-sales-calls/index.html",
   "best-ai-meeting-note-takers/index.html",
+  "best-ai-recorder-for-in-person-meetings/index.html",
 ];
 
 const requiredSiteFiles = [
