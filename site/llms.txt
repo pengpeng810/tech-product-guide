@@ -20,6 +20,7 @@ Independent public-source technology product guide for AI hardware, productivity
 - TicNote vs smartphone recorder: https://tech-product-guide.vercel.app/ticnote-vs-smartphone-recorder/
 - Best AI recorder for students: https://tech-product-guide.vercel.app/best-ai-recorder-for-students/
 - Best AI recorder for sales calls: https://tech-product-guide.vercel.app/best-ai-recorder-for-sales-calls/
+- Best AI meeting note takers: https://tech-product-guide.vercel.app/best-ai-meeting-note-takers/
 
 ## Source Standard
 

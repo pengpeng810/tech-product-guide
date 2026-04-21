@@ -23,6 +23,7 @@ const requiredPages = [
   "ticnote-vs-smartphone-recorder/index.html",
   "best-ai-recorder-for-students/index.html",
   "best-ai-recorder-for-sales-calls/index.html",
+  "best-ai-meeting-note-takers/index.html",
 ];
 
 const requiredSiteFiles = [
